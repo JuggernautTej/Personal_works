@@ -1,0 +1,5 @@
+flask
+pyscopg2
+pyscopg2-binary
+flask-sqlalchemy
+gunicon
